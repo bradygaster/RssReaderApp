@@ -1,0 +1,46 @@
+{
+  "agents": {
+    "aspire-apphost-engineer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "aspire-apphost-engineer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "orleans-grains-developer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "orleans-grains-developer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "feed-ingestion-worker-developer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "feed-ingestion-worker-developer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "blazor-frontend-developer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "blazor-frontend-developer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "data-persistence-engineer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "data-persistence-engineer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    },
+    "observability-service-defaults-engineer": {
+      "created_at": "2026-08-13T21:48:00.000Z",
+      "persistent_name": "observability-service-defaults-engineer",
+      "universe": "descriptive",
+      "legacy_named": false,
+      "status": "active"
+    }
+  }
+}
